@@ -1,0 +1,8 @@
+Dwight Howard
+height: 6-10
+weight: 265lbs
+DOB: 12/8/1985
+stats:
+PPG: 5.8
+RPG: 5.8
+APG: 0.5

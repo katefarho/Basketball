@@ -1,0 +1,8 @@
+Tony Bradley 
+height: 6-10
+weight: 248lbs
+DOB: 01/08/1998
+stats:
+PPG: 2.8
+RPG: 3.4
+APG: 0.5

@@ -1,0 +1,8 @@
+Frank Jackson 
+height: 6-3
+weight: 205lbs
+age: 23
+stats:
+PPG: 10.8
+RPG: 1.6
+APG: 1

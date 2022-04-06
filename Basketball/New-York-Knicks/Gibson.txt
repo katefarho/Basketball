@@ -1,0 +1,8 @@
+Taj Gibson
+height: 6-9
+weight: 232lbs
+DOB: 06/24/1985
+stats: 
+PPG: 4.3
+RPG: 4.4
+APG: 0.6

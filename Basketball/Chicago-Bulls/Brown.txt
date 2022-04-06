@@ -1,0 +1,8 @@
+Troy Brown Jr. 
+height: 6-6
+weight: 215lbs
+DOB: 07/28/1999
+stats:
+PPG: 4.1
+RPG: 3
+APG: 0.9

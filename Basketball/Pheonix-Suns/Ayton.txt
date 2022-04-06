@@ -1,0 +1,8 @@
+Deandre Ayton
+height: 6-11
+weight: 205lbs
+DOB: 07/23/1998
+stats:
+PPG: 17.1
+RPG: 10.2
+APG: 1.4

@@ -1,0 +1,8 @@
+Alex Caruso 
+height: 6-5
+weight: 186lbs
+DOB: 02/28/1994
+stats:
+PPG: 7.6
+RPG: 3.6
+APG: 3.9

@@ -1,0 +1,8 @@
+Devin Booker
+height: 6-5
+weight: 206lbs
+DOB: 10/30/1996
+stats:
+PPG: 26.6
+RPG: 5
+APG: 4.9

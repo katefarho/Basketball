@@ -1,0 +1,8 @@
+JaVale McGee
+height: 7-0
+weight: 270lbs
+DOB: 01/19/1998
+stats:
+PPG: 9.3
+RPG: 6.6
+APG: 0.6

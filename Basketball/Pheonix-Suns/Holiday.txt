@@ -1,0 +1,8 @@
+Aaron Holiday
+height: 6-0
+weight: 185lbs
+DOB: 09/30/1996
+stats:
+PPG: 6.3
+RPG: 1.9
+APG: 2.4

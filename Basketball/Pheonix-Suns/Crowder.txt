@@ -1,0 +1,8 @@
+Jae Crowder
+height: 6-6
+weight: 235lbs
+DOB: 07/06/1990
+stats:
+PPG: 9.5
+RPG: 5.3
+APG: 1.8

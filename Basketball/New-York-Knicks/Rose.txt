@@ -1,0 +1,8 @@
+Derrick Rose
+height: 6-2
+weight: 200lbs
+DOB: 10/4/1988
+stats:
+PPG: 12
+RPG: 3
+APG: 4

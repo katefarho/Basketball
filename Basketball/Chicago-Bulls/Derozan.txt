@@ -1,0 +1,8 @@
+Demar Derozan 
+height: 6-6 
+weight: 220lbs
+DOB: 08/07/1989
+stats:
+PPG: 28
+RPG: 5.3
+APG: 5

@@ -1,0 +1,8 @@
+Cade Cunningham
+height: 6-6
+weight: 220lbs
+Age: 20
+stats:
+PPG: 17.3
+RPG: 5.5
+APG: 5.5

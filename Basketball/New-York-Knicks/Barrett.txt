@@ -1,0 +1,8 @@
+RJ Barrett
+height: 6-6
+weight: 214lbs
+DOB: 06/14/2000
+stats:
+PPG: 20.1
+RPG: 5.5
+APG: 2.9

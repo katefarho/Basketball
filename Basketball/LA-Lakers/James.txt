@@ -1,0 +1,9 @@
+LeBron James
+height: 6-9
+weight: 250lbs
+DOB: 12/30/1984
+stats:
+PPG: 30.3
+RPG: 8.2
+APG: 6.2
+
